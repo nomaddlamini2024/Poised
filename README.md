@@ -1,4 +1,4 @@
-# Poised
+ Poised
 Poised repository is about creating a project management system for a small structural engineering firm called “Poised” – i.e., it's about creating a program to keep track of projects on which they work.
 
 Project's Title
@@ -20,15 +20,15 @@ The system provides capability to the user to finalise existing projects - by ma
 The application will enable users to conduct a search on projects that still need to be completed from the database.
 Users will be able to find and select a project by entering either the project number or project name.
 
-The following pertinent information about projects and personal will be stored in the system’s database, making it easy to keep track of projects:
+The following pertinent information about projects and personnel will be stored in the system’s database, making it easy to keep track of projects:
   . Project number
   . Project name.
-  . The type of building is being designed
-  . The physical address for the project
+  . The type of building being designed
+  . The physical address of the project
   . The ERF number
   . The total fee being charged for the project
   . The total amount paid to date.
-  . Deadline for the project.
+  . Deadline of the project.
   . The name, telephone number, email address and physical address of the architect for the project.
   . The name, telephone number, email address and physical address of the contractor for the 
     project.
@@ -46,20 +46,20 @@ The file must be saved with a .java extension and file type as ‘All files’ i
 
 Step 3: Open the command prompt 
 If the User is using Windows, they can open a Windows command prompt
-C:\Users\joesoap>
+for exmple, C:\Users\joesoap>
 
-Step 4: Navigate to the directory where the User saved their Java code using the “cd” command.
+Step 4: The User can navigate to the directory where the User saved their Java code using the “cd” command.
 For example, for a file saved on a C drive
-C:\Users\joesoap>cd  desktop
-C:\Users\joesoap\Desktop>cd  task8
+C:\Users\joesoap>cd desktop
+C:\Users\joesoap\Desktop>cd task8
 C:\Users\joesoap\Desktop\task8>
 
-Step 5: Compile the PoisedPMS.java file code by typing “javac [filename].java” – i.e., PoisedPMS.java       in the command prompt/terminal. 
+Step 5: Compile the PoisedPMS.java file code by typing “javac [filename].java” – i.e., PoisedPMS.java in the command prompt/terminal. 
 This will create a .class file in the same directory.
 
 Step 6: Running the PoisedPMS Java program by typing “java [filename]” – i.e., PoisedPMS.java in the command prompt/terminal. The program will execute and produce the output.
 
-Where users can get help with the project
+Where a User can get help with the project
 In the event that a User needs assistance with program they can contact the following person by sending an email to this email address: 
 . thandekiledlamini1@outlook.com
 
